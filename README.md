@@ -17,6 +17,8 @@
 
 
     Les IA des ennemie s'active après 5 secondes
+
+    Le marchand protège le joueur tant qu'il est dans sa zone
     
     L'expérience attendu est que le joueur se sentent submergé au début puis réussir a élémine ses ennemies après avoir acheter les sorts
 
@@ -33,6 +35,9 @@
         Je n'est pas réussi a avoir un projectile fonctionnel, je ne sais pas vraiment pourquoi vu que j'ai refait le système vu en cours.
         J'ai encore des problèmes avec la gestion de mes animations (j'utilise des Animation Montage) mais j'entrevois une potentielle solution.
         J'ai encore un peux de mal a utilisé les Scriptables objects créer en C++.
+
+        Je n'ai pas réussi a terminer le sort "Ice Breath", il ne détecte pas les ennemies
+        Je n'ai pas eu le temps de mettre de la vie au ennemies
 
     Ce que j'ai réussi :
 
